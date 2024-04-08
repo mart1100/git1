@@ -1,2 +1,3 @@
-zmiany sashdu
+
 print("hello world")
+print('hello from dev')
