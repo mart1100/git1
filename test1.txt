@@ -3,3 +3,6 @@ print("hello world")
 print('hello from master')
 print('pierwsza zmiana')
 print('druga zmiana')
+zmiany sashdu
+print("hello world")
+print('zmiana pierwsza dev')
