@@ -1,4 +1,5 @@
-print("hello world")
-print('zmiana pierwsza dev')
+
 print("hello world")
 print('hello from master')
+print('pierwsza zmiana')
+print('druga zmiana')
